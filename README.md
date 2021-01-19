@@ -1,0 +1,11 @@
+# Fake-News-Detection
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml1.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml2.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml3.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml4.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml5.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml6.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml7.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml8.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/ml9.png)
+![](https://github.com/ashvi11/Fake-News-Detection/blob/main/Fake%20News%20Report/mlz9.png)
